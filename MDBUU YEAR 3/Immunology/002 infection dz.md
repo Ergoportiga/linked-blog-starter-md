@@ -57,3 +57,10 @@
 | Chorioretinitis | retina               | CMV
 
 
+###### ==Pharyngoconjunctival fever==
+- เกิดจาก adenoviral 
+- มักสระว่ายน่้ำเด็ก
+- ตาแดง 2 ข้าง
+- Conjunctival swabs---> viral culture, ELISA for adenovirus, PCR
+
+
