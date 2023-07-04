@@ -32,20 +32,20 @@ Streptococci Group A
 - Auto-antibody to <u>nucleus</u>
 - autoreactive **B & T** lymphocyte
 - 20% in childhood
-Clinical 
-	Malar rash
-	Arthritis
-	Fever
-Lab
-	Low Complement 
-	พบ Anti-dsDNA
-Diagnosis `Criteria > 4/11
+#### Clinical 
+Malar rash
+Arthritis
+Fever
+#### Lab
+Low Complement 
+พบ Anti-dsDNA
+#### Diagnosis `Criteria > 4/11
 - malar rash
 - Discoid Lupus 
 - Oral ulcers
 - Arthritis
 - Serositis
-Management
+#### Management
 - sunscreen
 - prednisolone, cyclophosphamide, azathioprine
 - ห้าม live attenuated vaccine
