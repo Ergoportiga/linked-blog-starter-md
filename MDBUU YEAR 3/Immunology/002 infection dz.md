@@ -30,8 +30,17 @@
 | wound of foot  | **Pseudomonas aeruginosa**  |
 
 ### Septic arthritis
-| group       | organism      |
-| ----------- | ------------- |
-| 1mn - 1yrs  | **S. aureus** |
-| 4 - 16 yrs  | **S. aureus** |
-| 16 - 40 yrs | Ne              |
+| group       | organism                  |
+| ----------- | ------------------------- |
+| Neonate     | vaginal tract organism    |
+| 1mn - 1yrs  | **S. aureus**             |
+| 4 - 16 yrs  | **S. aureus**             |
+| 16 - 40 yrs | ==Neisseria gonorrhoeae== |
+| 40 ++       | S. aureus                 |
+
+###### Diagnosis
+- synovial fluid
+	ดู clarity color-yellowish-, Viscosity-50,000/mm3=, WBC
+
+
+
