@@ -16,6 +16,8 @@
 - Acne
 	- **P. acne**
 ## wound infections
-| Trauma | 
-
+| Wounds       | Bacteria                              |
+| ------------ | ------------------------------------- |
+| Trauma       | **P. aeruginosa (water, soil expose)** |
+| Animal bites | Cat : Pasteurella multocida           |
 
