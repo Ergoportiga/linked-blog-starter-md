@@ -81,4 +81,20 @@ Cefotaxime, Ceftazidime, ==Ceftriaxone==
 #### Adverse Effect
 - Gray baby syndrome
 ## Tetracyclines
-- 9
+- จับ 30s bact ribosome
+	- ==Chlamydia==
+	- Spirochete
+	- Mycloplasma
+	- ==Protozoa==
+- ดูซึมแย่ ห้ามกินพร้อมนม (Cations เยอะ)
+#### Therapeutic uses
+- Doxycycline
+	Skin - P. acne
+	Respiratory - ==Mycoplasma pneumoniae==
+	Genital - Chlamydia trachomatis
+#### Adverse Effect
+- Photosensitivity
+- Discoloration of teeth
+- Pregnancy D
+- avoid children > 8 years old
+## Aminoglycosides
