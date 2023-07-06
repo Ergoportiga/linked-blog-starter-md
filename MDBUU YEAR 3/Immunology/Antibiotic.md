@@ -60,4 +60,25 @@ Cefotaxime, Ceftazidime, ==Ceftriaxone==
 - Helicobacter pylori - 
 	- Clarithromycin + Amoxicillin + Omeprazole (Fristline)
 - Chlamydial infection - Azithromycin (ปลอดภัยสุด)
-- 
+#### Adverse Effects
+- Epigastric distress
+- Ototoxicity : tinnitus (เสียงวิ้งๆที่หู)
+#### Warning
+- CYP3A4 inhibitor --> พิษตับมากขึ้น
+- ==จำ Simvastation, warfarin== ,Carbamazepine, digoxin
+## Lincosamides
+==Clindamycin== --> lung abscess
+- Suppress protein synthesis
+- against - gram positive cocci, anaerobic organism
+#### Indication
+- สิว acne vulgaris
+- Pseudomembranous colitis
+	- เชื้อ Clostridium difficile --> ท้องเสีย --> ตายได้
+## Chloramphenicol
+ยาเก่า 
+- eye drops for **Bacteria conjunctivitis**
+	Stap. aureus, Strep. pneumoniae, ห้าม Chlamydia / P. aeruginosa
+#### Adverse Effect
+- Gray baby syndrome
+## Tetracyclines
+- 9
