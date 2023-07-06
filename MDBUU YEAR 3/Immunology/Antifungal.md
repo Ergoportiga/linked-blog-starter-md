@@ -22,13 +22,35 @@ Oral form
 #### Azoles
 Fungistatic
 - Fluconazole Renal eliminate ตัวเดียว
+	Good for CSF
+	- Clinical
+		Aspergillus ไม่ได้ผล
+		Dermatomycosis
+		ห้ามใน WBC ต่ำ
 - Ketoconazole
 	First Oral Azoles
 	Drug interaction เยอะ
 	- Adverse effect
 		GI distress
-		Endocrine effect : ผชมีนม,  menstrul abnormal
+		Endocrine effect : ผชมีนม,  menstrual abnormal
+- Itraconazole
+	Oral, GI absorb ดี
+	distribute ดีมาก  BUT **except** CSF
+	- Clinical
+		เชื้อราที่เล็บ
+- Voriconazoles
+	Life-threatening infection
+	- Clinical 
+		Invasive aspergillosis
+- Posaconazole
 #### Echinocandins
+Caspofungin, Micafungin, Anidulafungin
+- Inhibits Beta1,3 glutan--> disrupt cell wall
+- Clinical
+	- febrile neutropenia
+- Adverse effect
+	Hypersensitivity Type IV
+	Hepatotoxicity
 ### mucocutaneous
 #### Griseofulvin
 #### Terbinafine
