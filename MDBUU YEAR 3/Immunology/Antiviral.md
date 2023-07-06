@@ -30,3 +30,18 @@ Uncoating inhibitors
 	- Influenza
 
 ## Anti-Hepatitis
+- **Lamivudine** : NRTI
+	แทรกในสาย DNA
+	Side effect
+		Myalgia
+		Lactic acidosis
+		Bone marrow suppression
+		ชามือ เท้า
+		ตับอ่อนอักเสบ
+		Lipodystrophy
+- **Paritaprevir** : Protease inhibitor
+	ยับยั้ง Viral protease --> ยับยั้ง virus แบ่ง protein
+	Side effect
+		**Lipodystrophy**
+		
+- Interferon-alpha (Immune drug)
