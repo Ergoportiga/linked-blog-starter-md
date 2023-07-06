@@ -2,7 +2,9 @@ Fungistatic - stop growth
 Fungicidal - cell death
 
 ## Systemic antifungal drugs
-### Systemic
+
+### "Systemic"
+
 #### Amphotericin B
 Insoluble in water
 IV form
@@ -14,6 +16,7 @@ board spectrum fungicidal,
 	เชื้อฉวยโอกาศ
 	Intravenous
 	ยาหยอดตา fungal keratitis
+
 #### Flucytosine (5-FC)
 Water soluble
 Oral form
@@ -43,6 +46,7 @@ Fungistatic
 	- Clinical 
 		Invasive aspergillosis
 - Posaconazole
+
 #### Echinocandins
 Caspofungin, Micafungin, Anidulafungin
 - Inhibits Beta1,3 glutan--> disrupt cell wall
@@ -51,11 +55,13 @@ Caspofungin, Micafungin, Anidulafungin
 - Adverse effect
 	Hypersensitivity Type IV
 	Hepatotoxicity
-### mucocutaneous
+	
+### "Mucocutaneous"
 #### Griseofulvin
 #### Terbinafine
 #### Nystatin
-### Topical antifungal therapy
+
+### "Topical antifungal therapy"
 #### Topical Azoles
 #### Topical allylamines
 #### Topical nystatin
