@@ -42,6 +42,11 @@ Uncoating inhibitors
 - **Paritaprevir** : Protease inhibitor
 	ยับยั้ง Viral protease --> ยับยั้ง virus แบ่ง protein
 	Side effect
-		**Lipodystrophy**
+		**Lipodystrophy** ==Common==
 		
 - Interferon-alpha (Immune drug)
+
+## Herpes simplex
+- Acyclovir
+	Side effect
+		Photosensitivity
