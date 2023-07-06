@@ -98,3 +98,12 @@ Cefotaxime, Ceftazidime, ==Ceftriaxone==
 - Pregnancy D
 - avoid children > 8 years old
 ## Aminoglycosides
+- narrow-spectrum agents
+- aerobic gram-**negative** bacteria
+#### Indication
+- Sepsis - P. aeruginosa
+- Skin infection
+#### Adverse Effects
+- ไม่ควรใช้ติดต่อเกิน 2 weeks
+- Ototoxicity
+- Nephrotoxicity
