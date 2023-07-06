@@ -51,4 +51,8 @@ Cefotaxime, Ceftazidime, ==Ceftriaxone==
 
 # 2. Bacteria Protein Synthesis Inhibitors
 ## Macrolides
-- Roxithromycin, Azithromycin, Clarithromycin
+- Roxi==thromycin==, Azi==thromycin==, Clari==thromycin==
+- bind 50s ribosomal subunit --> bacteria static
+- กินตอน Empthy stomach
+- Half life นาน Azithromycin 3 days
+- 
