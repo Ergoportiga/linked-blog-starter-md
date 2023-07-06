@@ -55,4 +55,9 @@ Cefotaxime, Ceftazidime, ==Ceftriaxone==
 - bind 50s ribosomal subunit --> bacteria static
 - กินตอน Empthy stomach
 - Half life นาน Azithromycin 3 days
+#### Therapeutic Use
+- Respi - Strep pneumo - Rox,Azithromycin
+- Helicobacter pylori - 
+	- Clarithromycin + Amoxicillin + Omeprazole (Fristline)
+- Chlamydial infection - Azithromycin (ปลอดภัยสุด)
 - 
