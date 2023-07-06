@@ -105,5 +105,6 @@ Cefotaxime, Ceftazidime, ==Ceftriaxone==
 - Skin infection
 #### Adverse Effects
 - ไม่ควรใช้ติดต่อเกิน 2 weeks
-- Ototoxicity
-- Nephrotoxicity
+- Ototoxicity พิษหู
+- Nephrotoxicity พิษไต
+# 3. Quinolones
