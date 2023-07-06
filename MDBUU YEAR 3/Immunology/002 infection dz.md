@@ -1,4 +1,4 @@
-# Skin infections
+### Skin infections
 - Folliculitis
 	- hair follicle @ รูขุมขน
 	- **S. aureus** ,GAS
@@ -15,7 +15,7 @@
 	- **GAS** , S. aureus, H influenza
 - Acne
 	- **P. acne**
-## wound infections
+### wound infections
 
 | Wounds       | Bacteria                              |
 | ------------ | ------------------------------------- |
@@ -45,7 +45,7 @@
 - synovial fluid
 	ดู clarity color-yellowish-, Viscosity, WBC 50,000
 
-#### Eye infection
+### Eye infection
 "skin normal flora ex. S aureus, GAS"
 
 | Eye infection   | area                 | organism เด้นๆ                                     |
