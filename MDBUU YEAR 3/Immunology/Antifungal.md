@@ -21,6 +21,7 @@ board spectrum fungicidal,
 Water soluble
 Oral form
 ขับผ่านไต
+Inhibit DNA synthesis
 
 #### Azoles
 Fungistatic
